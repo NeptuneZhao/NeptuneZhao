@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NeptuneZhao, a Chinese student.
-- 👀 I’m interested in C#, only C#.
-- 🌱 I’m currently learning C#, yes.
+- 👋 Hi, I’m @NeptuneZhao, a Chinese freshman. 2023
+- 👀 I’m interested in CSharp/JSON...
+- 🌱 I’m currently learning AI & CSharp!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? You can send emails to qq1836143240@outlook.com.
 

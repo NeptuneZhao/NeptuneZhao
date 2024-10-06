@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NeptuneZhao, a Chinese freshman. 2023
-- 👀 I’m interested in CSharp/JSON...
-- 🌱 I’m currently learning AI & CSharp!
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @NeptuneZhao, a Chinese Sophomore in Harbin Institute of Technology (Shenzhen), 2024.
+- 👀 I’m interested in network A/D, communication.
+- 🌱 I’m currently learning common C data structure and machine learning.
+- 💞️ I’m looking to collaborate with students with programming probies.
 - 📫 How to reach me? You can send emails to qq1836143240@outlook.com.
 
 <!---

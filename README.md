@@ -45,7 +45,7 @@ Collaborations on C# projects &nbsp;·&nbsp; Minecraft mod ideas &nbsp;·&nbsp; 
 
 ## Reach me
 
-📬 &nbsp;`[your GitHub registered email]`
+📬 &nbsp;`[qq1836143240@outlook.com]`
 
 ---
 
